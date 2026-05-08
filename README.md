@@ -1,10 +1,10 @@
-# jekyll-theme-bulma-clean-theme-example
+# jekyll-theme-example-bulma-clean-theme
 
 Template to start a jekyll repo using docker.
 
 ***table of contents***
 
-- [jekyll-theme-bulma-clean-theme-example](#jekyll-theme-bulma-clean-theme-example)
+- [jekyll-theme-example-bulma-clean-theme](#jekyll-theme-example-bulma-clean-theme)
   - [Getting started](#getting-started)
   - [Running on local](#running-on-local)
   - [Troubleshooting](#troubleshooting)
