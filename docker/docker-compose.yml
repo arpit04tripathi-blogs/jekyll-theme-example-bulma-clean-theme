@@ -1,7 +1,7 @@
 services:
   server:
     image: jekyll/jekyll:4.2.2
-    container_name: jekyll-theme-bulma-clean-theme-example
+    container_name: jekyll-theme-example-bulma-clean-theme
     environment:
       MY_ENV_VAR_DUMMY: 'service_named_server'
     volumes:
